@@ -1,0 +1,9 @@
+.venv/
+.env*
+docs/
+__pycache__/
+data/
+*.pyc
+db.sqlite3
+geocode_report.csv
+*.bak
